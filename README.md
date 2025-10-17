@@ -1,3 +1,4 @@
+<img width="600" height="600" alt="icon" src="https://github.com/user-attachments/assets/a673de00-6751-431c-bba4-4cae792724e2" />
 Dettolator opens the official Dettol Germ Shooter game in a standalone window — no browser required.
 It’s a fun educational game promoting hygiene and germ awareness.
 
@@ -79,3 +80,5 @@ Made with 💚 for clean hands and clean code.
 
 This project is for educational and fan purposes only.
 All game content and trademarks belong to Dettol® / Reckitt Bangladesh.
+<img width="600" height="600" alt="icon" src="https://github.com/user-attachments/assets/03da9970-fa89-4c91-8692-293b1aef28f1" />
+<img width="225" height="225" alt="images (7)" src="https://github.com/user-attachments/assets/78255ef1-e305-4929-bde0-25a64a6c2677" />
