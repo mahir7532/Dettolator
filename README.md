@@ -1,10 +1,3 @@
-Dettolator is a simple Linux desktop app that lets you play the Dettol Germ Shooter web game as a native AppImage.
-Built using Electron
- and packaged with electron-builder
-.
-
-🎮 About
-
 Dettolator opens the official Dettol Germ Shooter game in a standalone window — no browser required.
 It’s a fun educational game promoting hygiene and germ awareness.
 
@@ -85,4 +78,4 @@ Made with 💚 for clean hands and clean code.
 🧩 License
 
 This project is for educational and fan purposes only.
-All game content and trademarks belong to Dettol® / Reckitt Benckiser Group.
+All game content and trademarks belong to Dettol® / Reckitt Bangladesh.
