@@ -1,0 +1,25 @@
+{
+  "name": "dettolator",
+  "version": "1.0.0",
+  "description": "Play Dettol Germ Shooter as a native Linux app",
+  "author": "Mahir",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "npx electron-builder --linux AppImage"
+  },
+  "build": {
+    "appId": "xyz.dettolator.app",
+    "productName": "Dettolator",
+    "linux": {
+      "target": "AppImage",
+      "icon": "icon.png"
+    }
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^31.0.0",
+    "electron-builder": "^26.0.12"
+  }
+}
+
