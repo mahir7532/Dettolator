@@ -1,4 +1,3 @@
-<img width="600" height="600" alt="icon" src="https://github.com/user-attachments/assets/a673de00-6751-431c-bba4-4cae792724e2" />
 Dettolator opens the official Dettol Germ Shooter game in a standalone window — no browser required.
 It’s a fun educational game promoting hygiene and germ awareness.
 
